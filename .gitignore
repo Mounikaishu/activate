@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+backend/.env
+
+# ChromaDB
+backend/chroma_db/
+
+# Build
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
