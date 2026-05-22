@@ -3,6 +3,7 @@ Placement Reality Check — Document parsers for PDF, DOCX, and plain text.
 """
 
 import io
+import oauthlib
 from pypdf import PdfReader
 
 
