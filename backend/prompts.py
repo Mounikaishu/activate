@@ -103,7 +103,7 @@ Example output style:
 
 Format in clean markdown. Use priority emoji (🔴🟡🟢) for visual clarity.
 """
-
+##given features
 
 RESUME_IMPROVEMENT_PROMPT = """
 You are a professional resume writer who specializes in tech resumes for competitive job markets.
