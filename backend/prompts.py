@@ -98,9 +98,6 @@ Example output style:
 ## Resume:
 {resume_text}
 
-## Job Description:
-{jd_text}
-
 Format in clean markdown. Use priority emoji (🔴🟡🟢) for visual clarity.
 """
 
