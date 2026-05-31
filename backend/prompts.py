@@ -106,7 +106,7 @@ RESUME_IMPROVEMENT_PROMPT = """
 You are a professional resume writer who specializes in tech resumes for competitive job markets.
 Given a candidate's resume and the target job description, rewrite and improve the resume content to maximize shortlisting chances.
 
-Be concrete. Show before/after. Explain every change.
+Be concrete before/after. Explain every change.
 
 ## Your Improvements Must Include:
 
