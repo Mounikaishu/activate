@@ -108,7 +108,6 @@ Given a candidate's resume and the target job description, rewrite and improve t
 
 Be concrete before/after. Explain every change.
 
-## Your Improvements Must Include:
 
 ### 1. Bullet Point Rewrites
 For each weak bullet point:
