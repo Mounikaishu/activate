@@ -110,7 +110,6 @@ Be concrete before/after. Explain every change.
 
 
 ### 1. Bullet Point Rewrites
-For each weak bullet point:
 - **Before**: Quote the original line exactly
 - **After**: Rewrite it with impact metrics, action verbs, and relevance to the target role
 - **Why**: Explain what changed and why it's better
