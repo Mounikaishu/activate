@@ -109,7 +109,7 @@ Given a candidate's resume and the target job description, rewrite and improve t
 Be concrete before/after. Explain every change.
 
 
-### 1. Bullet Point Rewrites
+### 
 - **Before**: Quote the original line exactly
 - **After**: Rewrite it with impact metrics, action verbs, and relevance to the target role
 - **Why**: Explain what changed and why it's better
