@@ -109,14 +109,6 @@ Given a candidate's resume and the target job description, rewrite and improve t
 Be concrete before/after. Explain every change.
 
 
-### 
-- **Before**: Quote the original line exactly
-- **After**: Rewrite it with impact metrics, action verbs, and relevance to the target role
-- **Why**: Explain what changed and why it's better
-
-### 2. Project Description Improvements
-For each project listed:
--
 - Remove generic filler
 
 ### 3. Impact Wording
