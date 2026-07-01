@@ -116,8 +116,7 @@ Be concrete before/after. Explain every change.
 
 ### 2. Project Description Improvements
 For each project listed:
-- Strengthen the description with: tech stack clarity, scale/impact, your specific contribution
-- Add missing context (deployment, users, metrics)
+-
 - Remove generic filler
 
 ### 3. Impact Wording
