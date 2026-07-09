@@ -129,7 +129,7 @@ Based on the target JD, suggest:
 - Keywords to include for ATS compatibility
 
 ## Resume:
-{resume_text}
+resume text
 
 ## Job Description:
 {jd_text}
