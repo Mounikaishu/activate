@@ -8,7 +8,7 @@ from pypdf import PdfReader
 
 
 def parse_pdf(file_bytes: bytes) -> str:
-    """Extract text from file"
+    """Extract text from file(PDF)."""
     reader = PdfReader(io.BytesIO(file_bytes))
     text = ""
     for page in reader.pages:
