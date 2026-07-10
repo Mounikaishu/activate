@@ -6,10 +6,7 @@ from config import CHUNK_SIZE, CHUNK_OVERLAP
 
 
 def chunk_text(text: str, chunk_size: int = None, overlap: int = None) -> list[str]:
-    """
-    Chunks text with overlap for better retrieval.
-    Smaller chunks + overlap = more precise semantic matching.
-    """
+   
     chunk_size = chunk_size or CHUNK_SIZE
     overlap = overlap or CHUNK_OVERLAP
 
