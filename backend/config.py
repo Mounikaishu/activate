@@ -1,6 +1,3 @@
-"""
-Placement Reality Check — Configuration & Constants.
-"""
 
 import os
 import warnings
