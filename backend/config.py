@@ -16,7 +16,7 @@ if not GEMINI_API_KEY:
 MODELS = [
     "gemini-3-flash-preview",
     "gemini-2.0-flash",
-    "gemini-2.0-pro",
+    
 ]
 
 MAX_RETRIES = 2
