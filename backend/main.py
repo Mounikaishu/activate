@@ -10,7 +10,7 @@ from routers.analysis import router as analysis_router
 from routers.interview import router as interview_router
 
 app = FastAPI(
-    title="Placement Reality Check",
+    title="Placement Reality",
     description="Brutally honest AI-powered resume analysis against specific job descriptions",
     version="1.0.0",
 )
