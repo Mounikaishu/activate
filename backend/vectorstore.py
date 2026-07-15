@@ -9,7 +9,7 @@ client = chromadb.Client()
 
 
 def _collection_name(session_id: str, doc_type: str) -> str:
-    """Generate a collection name for a session + document type."""
+    """a collection name for a session + document type."""
     safe_id = session_id.replace("-", "_")[:32]
     return f"{doc_type}_{safe_id}"
 
